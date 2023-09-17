@@ -18,11 +18,17 @@
 
 - 📫 How to reach me:
 <a href="mailto:abramovairinawork@gmail.com" title="Email me">
-  <img
+<img
     width="30"
     alt="Email me"
     src="gmail.png"
   /></a>
+<a href="https://t.me/Abrina98" title="Telegram">
+<img
+    width="30"
+    alt="Telegram"
+    src="telegram.png"
+  /></a>
 <!-- - 💬 Ask me about ...
 - ⚡ Fun fact: ...
--->
+  -->
