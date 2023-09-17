@@ -1,13 +1,14 @@
 ### Hi there!
-
 #### I'm Irina and I'm Frontend developer.
 
-<img align="right" width=140 src="https://media.giphy.com/media/cFoyPwWyX8UVuZHL5i/giphy.gif"/>
+<div align="left">
+<img  width=140 src="https://media.giphy.com/media/cFoyPwWyX8UVuZHL5i/giphy.gif"/>
+</div>
 
 - 🔭 I’m currently working on **HTML5, CSS3, JavaScript, ReactJS**.
 - 🌱 I’m currently learning JavaScript, ReactJS
 
-  <div align="center">
+  <div align="left">
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
