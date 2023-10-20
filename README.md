@@ -2,7 +2,7 @@
 ### I'm Irina and I'm Frontend developer.
 
 <div align="left">
-<img  width=140 src="https://media.giphy.com/media/cFoyPwWyX8UVuZHL5i/giphy.gif"/>
+<img  width=140 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczBpb3ZqZ25xemQxaWpmc3lucTBrOXRyaGxwZGRtMnR2NXNtem1ncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WSC0dW3uLXbMs/giphy-downsized-large.gif"/>
 </div>
 
 ### About Me :
