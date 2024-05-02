@@ -7,7 +7,12 @@
 
 ### About Me :
 - 🔭 I’m currently working on **HTML5, CSS3, JavaScript, ReactJS**.
-- 🌱 I’m currently learning JavaScript, ReactJS
+- 🌱 Currently immersed in **Next, JavaScript, ReactJS, TypeScript**.
+
+### My BEST works: 
+<ul>
+	<li>http://remotellamas.com</li>
+</ul>
 
 ### Languages and Tools :
 
