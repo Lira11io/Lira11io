@@ -24,6 +24,8 @@
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
 	<img width="40" height="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap"/>
 	<img width="40" height="35" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" title="Figma"/>
+	<img width="40" height="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-plain.svg" alt="Next" title="Next"/>
+	<img width="40" height="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" title="Node"/>
 	<img width="40" height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git"/>
 </div>
 
