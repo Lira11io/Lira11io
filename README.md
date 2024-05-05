@@ -47,6 +47,12 @@
     alt="Telegram"
     src="telegram.png"
   /></a>
+  <a href="https://www.linkedin.com/in/irina-abramova-10857625b/">
+<img
+    width="30"
+    alt="LinkedIn"
+    src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
+  /></a>
 <!-- - 💬 Ask me about ...
 - ⚡ Fun fact: ...
   -->
