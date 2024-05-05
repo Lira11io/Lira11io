@@ -15,7 +15,7 @@
 
 <ul>
 	<li>http://remotellamas.com</li>
-  <li>https://oksana2211.github.io/Project</li>
+  <li>https://github.com/Lira11io/Real_Project.git</li>
 </ul>
 
 ### Languages and Tools :
